@@ -1,0 +1,13 @@
+DateSold     Brand       Model       SalePrice    Salesperson
+2023-01-01   Toyota      Camry       25000        John Doe
+2023-01-03   Ford        Mustang     30000        Jane Smith
+2023-01-04   Tesla       Model_3     35000        Alice Johnson
+2023-01-05   Toyota      Corolla     20000        John Doe
+2023-01-06   Ford        Focus       22000        Jane Smith
+2023-01-07   Tesla       Model_S     70000        Alice Johnson
+2023-01-08   Toyota      Prius       24000        John Doe
+2023-01-09   Ford        Explorer    32000        Jane Smith
+2023-01-10   Tesla       Model_X     75000        Alice Johnson
+2023-01-11   Toyota      Rav4        26000        John Doe
+2023-01-12   Ford        Fusion      23000        Jane Smith
+2023-01-13   Tesla       Cybertruck  40000        Alice Johnson
